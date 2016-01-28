@@ -1,0 +1,30 @@
+{
+  "name": "orgasmic-elements",
+  "version": "0.1.0",
+  "homepage": "https://github.com/orgasmic/orgasmic-elements",
+  "authors": [
+    "The Orgasmic Authors"
+  ],
+  "description": "Orgasmic elements are a set of visual elements that extend Google's Material Design.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "paper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orgasmic/orgasmic-elements.git"
+  },
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "orgasmic-login": "git@github.com:orgasmic/orgasmic-login.git"
+  },
+  "main": "orgasmic-elements.html"
+}
